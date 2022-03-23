@@ -1,0 +1,15 @@
+C:\Users\wellington alves\source\repos\Caixa\Caixa\obj\Debug\net6.0\Caixa.csproj.AssemblyReference.cache
+C:\Users\wellington alves\source\repos\Caixa\Caixa\obj\Debug\net6.0\Caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wellington alves\source\repos\Caixa\Caixa\obj\Debug\net6.0\Caixa.AssemblyInfoInputs.cache
+C:\Users\wellington alves\source\repos\Caixa\Caixa\obj\Debug\net6.0\Caixa.AssemblyInfo.cs
+C:\Users\wellington alves\source\repos\Caixa\Caixa\obj\Debug\net6.0\Caixa.csproj.CoreCompileInputs.cache
+C:\Users\wellington alves\source\repos\Caixa\Caixa\bin\Debug\net6.0\Caixa.exe
+C:\Users\wellington alves\source\repos\Caixa\Caixa\bin\Debug\net6.0\Caixa.deps.json
+C:\Users\wellington alves\source\repos\Caixa\Caixa\bin\Debug\net6.0\Caixa.runtimeconfig.json
+C:\Users\wellington alves\source\repos\Caixa\Caixa\bin\Debug\net6.0\Caixa.dll
+C:\Users\wellington alves\source\repos\Caixa\Caixa\bin\Debug\net6.0\Caixa.pdb
+C:\Users\wellington alves\source\repos\Caixa\Caixa\obj\Debug\net6.0\Caixa.dll
+C:\Users\wellington alves\source\repos\Caixa\Caixa\obj\Debug\net6.0\refint\Caixa.dll
+C:\Users\wellington alves\source\repos\Caixa\Caixa\obj\Debug\net6.0\Caixa.pdb
+C:\Users\wellington alves\source\repos\Caixa\Caixa\obj\Debug\net6.0\Caixa.genruntimeconfig.cache
+C:\Users\wellington alves\source\repos\Caixa\Caixa\obj\Debug\net6.0\ref\Caixa.dll
